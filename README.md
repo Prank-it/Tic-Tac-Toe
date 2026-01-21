@@ -15,4 +15,4 @@ This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - JavaScript  
 
 ## Live Demo
-(You can add GitHub Pages later)
+https://prank-it.github.io/Tic-Tac-Toe/
